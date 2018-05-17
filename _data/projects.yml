@@ -1,23 +1,22 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: ""
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: Kokosee App
+    link: "https://play.google.com/store/apps/details?id=com.kokosee"
+    tagline: "Explore any place with 360 VR videos produced by our staff, allowing you to tilt or move your phone to view any angle of anywhere! Explore with ease and comfort - See the interior of local shops, restaurants, temples, shopping malls, hotel rooms, and more!"
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    title: DriVadz App
+    link: "https://play.google.com/store/apps/details?id=vn.driVadz.driver"
+    tagline: "Client App for driver to increase theirs income by allow adv on their car"
   - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    title: Giup viec Sen Hong App
+    link: "https://play.google.com/store/apps/details?id=com.senhongBETA"
+    tagline: "Building SenHong - a system of maid services and management"
+    - project:
+    title: Agribank M-Plus App
+    link: "https://play.google.com/store/apps/details?id=com.mpay.agr"
+    tagline: "Building mobile app for Agribank - An agricultural bank of Viet Nam."
   - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-  - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: CancerAid App
+    link: "https://play.google.com/store/apps/details?id=au.com.canceraid"
+    tagline: "CancerAid is a first-of-its kind tool that helps anyone diagnosed with cancer navigate through each stage of their cancer journey."

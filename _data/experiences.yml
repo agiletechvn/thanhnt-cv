@@ -1,28 +1,20 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: Mobile Developer
+  time: July 2017 - Present
+  company: AgileTech Viet Nam
+  details: "Developer of AgileTech Viet Nam, building SenHong - a system of maid services and management, Drivadz - advertising on the car and motorbike, building mobile app for Agribank - An agricultural bank of Viet Nam"
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Mobile Developer
+  time: Nov 2016 - May 2017 Present
+  company: Programming training center Khoa Pham
+  details: "Teach mobile app programming with React Native"
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Mobile and Web Developer
+  time: July 2015 - October 2016
+  company: Viet Nam Price Joint Stock Company
+  details: "Side Project - Building a web app and mobile app at the Company"
+- experience:
+  role: Part-time Web Developer
+  time: Nov 2014 - May 2015
+  company: Money Lover
+  details: "Working  as an intern student"
