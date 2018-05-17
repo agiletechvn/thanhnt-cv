@@ -17,7 +17,7 @@ about: True # set to False or comment line if you want to remove the "How to use
 #Profile information
 name: NGO TIEN THANH
 tagline: Mobile Developer
-pic: avatar.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: https://raw.githubusercontent.com/agiletechvn/thanhnt-cv/master/avatar.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: "I'm 24 years old Mobile Developer of Agiletech Viet Nam. I have more than 2 years of work experience in various positions. I love coding, music, swimming, gym and game. Self-motivated and hardworking developer with the love of information technology
 Can work well under pressure and to quickly acquire new technology and new programming language."
 
