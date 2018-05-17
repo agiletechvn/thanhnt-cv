@@ -12,7 +12,7 @@ projects:
     title: Giup viec Sen Hong App
     link: "https://play.google.com/store/apps/details?id=com.senhongBETA"
     tagline: "Building SenHong - a system of maid services and management"
-    - project:
+  - project:
     title: Agribank M-Plus App
     link: "https://play.google.com/store/apps/details?id=com.mpay.agr"
     tagline: "Building mobile app for Agribank - An agricultural bank of Viet Nam."
